@@ -1,0 +1,15 @@
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.deps.json
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.pdb
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\refint\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.pdb
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ref\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.exe
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.runtimeconfig.json
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.genruntimeconfig.cache

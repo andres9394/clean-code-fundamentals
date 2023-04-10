@@ -1,0 +1,14 @@
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.exe
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.deps.json
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.json
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.runtimeconfig.dev.json
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\bin\Debug\netcoreapp3.1\ToDo.pdb
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.csproj.AssemblyReference.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfoInputs.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfo.cs
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.dll
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.pdb
+D:\Documentos\proyectosCSharp2023\curso-codigo-limpio-csharp\obj\Debug\netcoreapp3.1\ToDo.genruntimeconfig.cache
